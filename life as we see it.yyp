@@ -341,6 +341,7 @@
     {"id":{"name":"fruithome","path":"objects/fruithome/fruithome.yy",},"order":18,},
     {"id":{"name":"stripepathH1223","path":"sprites/stripepathH1223/stripepathH1223.yy",},"order":219,},
     {"id":{"name":"flowersprite7","path":"sprites/flowersprite7/flowersprite7.yy",},"order":222,},
+    {"id":{"name":"Sprite244","path":"sprites/Sprite244/Sprite244.yy",},"order":244,},
     {"id":{"name":"SeatPink4Sprite","path":"sprites/SeatPink4Sprite/SeatPink4Sprite.yy",},"order":171,},
     {"id":{"name":"Interactable","path":"objects/Interactable/Interactable.yy",},"order":46,},
     {"id":{"name":"kikiDressLeft","path":"sprites/kikiDressLeft/kikiDressLeft.yy",},"order":5,},
