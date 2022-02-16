@@ -2,11 +2,11 @@
 /// @DnDVersion : 1
 /// @DnDHash : 6E51464E
 /// @DnDApplyTo : kiki
-/// @DnDArgument : "x" "3821"
-/// @DnDArgument : "y" "1930"
+/// @DnDArgument : "x" "3822"
+/// @DnDArgument : "y" "2072"
 with(kiki) {
-x = 3821;
-y = 1930;
+x = 3822;
+y = 2072;
 }
 
 /// @DnDAction : YoYo Games.Instances.Color_Sprite

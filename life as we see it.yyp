@@ -149,6 +149,7 @@
     {"id":{"name":"BubbletreeBright2Collision","path":"sprites/BubbletreeBright2Collision/BubbletreeBright2Collision.yy",},"order":54,},
     {"id":{"name":"kitchenIslandSprite1","path":"sprites/kitchenIslandSprite1/kitchenIslandSprite1.yy",},"order":100,},
     {"id":{"name":"Cottoncandy1","path":"objects/Cottoncandy1/Cottoncandy1.yy",},"order":14,},
+    {"id":{"name":"Mmmmmmenu","path":"rooms/Mmmmmmenu/Mmmmmmenu.yy",},"order":9,},
     {"id":{"name":"grass7","path":"sprites/grass7/grass7.yy",},"order":113,},
     {"id":{"name":"steam4","path":"objects/steam4/steam4.yy",},"order":74,},
     {"id":{"name":"Poppy","path":"objects/Poppy/Poppy.yy",},"order":59,},
@@ -354,6 +355,7 @@
     {"id":{"name":"amyfront","path":"sprites/amyfront/amyfront.yy",},"order":17,},
     {"id":{"name":"SeatPink7Sprite","path":"sprites/SeatPink7Sprite/SeatPink7Sprite.yy",},"order":206,},
     {"id":{"name":"DresserMenu","path":"objects/DresserMenu/DresserMenu.yy",},"order":110,},
+    {"id":{"name":"kikiOnesieFront245","path":"sprites/kikiOnesieFront245/kikiOnesieFront245.yy",},"order":245,},
     {"id":{"name":"kiki","path":"objects/kiki/kiki.yy",},"order":1,},
     {"id":{"name":"cutiepondflowers2","path":"objects/cutiepondflowers2/cutiepondflowers2.yy",},"order":34,},
     {"id":{"name":"grass2","path":"sprites/grass2/grass2.yy",},"order":34,},
@@ -388,6 +390,7 @@
     {"roomId":{"name":"ObservatoryDome","path":"rooms/ObservatoryDome/ObservatoryDome.yy",},},
     {"roomId":{"name":"mountains","path":"rooms/mountains/mountains.yy",},},
     {"roomId":{"name":"Room6","path":"rooms/Room6/Room6.yy",},},
+    {"roomId":{"name":"Mmmmmmenu","path":"rooms/Mmmmmmenu/Mmmmmmenu.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
