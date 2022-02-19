@@ -28,6 +28,7 @@
         {"FrameId":{"name":"ba0b4950-b04e-49cf-8673-69e4e54ecc85","path":"sprites/amyBathtime/amyBathtime.yy",},"LayerId":{"name":"0e03e1f7-c4a0-48d2-bf47-1880a4ec6cce","path":"sprites/amyBathtime/amyBathtime.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"ba0b4950-b04e-49cf-8673-69e4e54ecc85","path":"sprites/amyBathtime/amyBathtime.yy",},"LayerId":{"name":"0f18ae54-ab25-49f8-8cf4-fa8521e6b4e0","path":"sprites/amyBathtime/amyBathtime.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"ba0b4950-b04e-49cf-8673-69e4e54ecc85","path":"sprites/amyBathtime/amyBathtime.yy",},"LayerId":{"name":"2ebd3810-8ee4-4507-b860-8e5acbfb76da","path":"sprites/amyBathtime/amyBathtime.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"ba0b4950-b04e-49cf-8673-69e4e54ecc85","path":"sprites/amyBathtime/amyBathtime.yy",},"LayerId":{"name":"dc55a46b-b782-477e-81cc-55d05422dfa9","path":"sprites/amyBathtime/amyBathtime.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"amyBathtime","path":"sprites/amyBathtime/amyBathtime.yy",},"resourceVersion":"1.0","name":"ba0b4950-b04e-49cf-8673-69e4e54ecc85","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -67,7 +68,8 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":25.0,"displayName":"Layer 2","resourceVersion":"1.0","name":"0e03e1f7-c4a0-48d2-bf47-1880a4ec6cce","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":false,"isLocked":false,"blendMode":0,"opacity":25.0,"displayName":"Layer 2","resourceVersion":"1.0","name":"0e03e1f7-c4a0-48d2-bf47-1880a4ec6cce","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":5.0,"displayName":"Layer 3","resourceVersion":"1.0","name":"dc55a46b-b782-477e-81cc-55d05422dfa9","tags":[],"resourceType":"GMImageLayer",},
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":50.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"0f18ae54-ab25-49f8-8cf4-fa8521e6b4e0","tags":[],"resourceType":"GMImageLayer",},
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"2ebd3810-8ee4-4507-b860-8e5acbfb76da","tags":[],"resourceType":"GMImageLayer",},
   ],

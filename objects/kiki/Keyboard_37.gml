@@ -22,11 +22,11 @@ if(global.mobile == true)
 		/// @DnDVersion : 1
 		/// @DnDHash : 4AAA5ED8
 		/// @DnDParent : 66CE9DBB
-		/// @DnDArgument : "x" "-1"
+		/// @DnDArgument : "x" "-.6"
 		/// @DnDArgument : "x_relative" "1"
 		/// @DnDArgument : "y" "0"
 		/// @DnDArgument : "y_relative" "1"
-		x += -1;
+		x += -.6;
 		y += 0;
 	}
 }

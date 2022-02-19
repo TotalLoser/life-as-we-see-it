@@ -97,13 +97,12 @@ else
 
 	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDVersion : 1
-	/// @DnDHash : 1299BD95
-	/// @DnDApplyTo : {kiki}
+	/// @DnDHash : 21F9D49B
+	/// @DnDApplyTo : kiki
 	/// @DnDParent : 6691D265
-	/// @DnDArgument : "spriteind" "kikiDressLeft"
-	/// @DnDSaveInfo : "spriteind" "kikiDressLeft"
+	/// @DnDArgument : "spriteind" "leftsprite"
 	with(kiki) {
-	sprite_index = kikiDressLeft;
+	sprite_index = leftsprite;
 	image_index = 0;
 	}
 }

@@ -99,10 +99,9 @@ else
 	/// @DnDHash : 0FF903EA
 	/// @DnDApplyTo : {kiki}
 	/// @DnDParent : 0B7DC09F
-	/// @DnDArgument : "spriteind" "kikiDressRight"
-	/// @DnDSaveInfo : "spriteind" "kikiDressRight"
+	/// @DnDArgument : "spriteind" "rightsprite"
 	with(kiki) {
-	sprite_index = kikiDressRight;
+	sprite_index = rightsprite;
 	image_index = 0;
 	}
 }
