@@ -25,7 +25,6 @@
   "gridY": 1,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"f24c7cff-f08a-4313-bc34-3ad290628ebb","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f24c7cff-f08a-4313-bc34-3ad290628ebb","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"LayerId":{"name":"214c2c1e-9e68-43e3-b7c2-e8b6e77a7be7","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"f24c7cff-f08a-4313-bc34-3ad290628ebb","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"LayerId":{"name":"047f86c6-005f-405f-a83b-2fc69eb74f3f","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"f24c7cff-f08a-4313-bc34-3ad290628ebb","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"LayerId":{"name":"df2819ed-1fc3-4b45-b5cd-6de6dfb89d25","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"f24c7cff-f08a-4313-bc34-3ad290628ebb","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"LayerId":{"name":"1cf5d574-9f80-4af8-8da4-d2438aaac590","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
@@ -40,6 +39,7 @@
         {"FrameId":{"name":"f24c7cff-f08a-4313-bc34-3ad290628ebb","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"LayerId":{"name":"235c9f54-23b2-42c5-98e2-be925fb6baff","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"f24c7cff-f08a-4313-bc34-3ad290628ebb","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"LayerId":{"name":"f2fde5d0-830b-4de9-a2a4-fdbcb23f05a4","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"f24c7cff-f08a-4313-bc34-3ad290628ebb","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"LayerId":{"name":"e49e8582-8e4b-4d10-8eaa-0314682d011d","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"f24c7cff-f08a-4313-bc34-3ad290628ebb","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"LayerId":{"name":"c2cbaf36-7d39-47ae-baa4-4fe9d6dab36f","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"HouseShayInteriorDownstairsCollision","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"resourceVersion":"1.0","name":"f24c7cff-f08a-4313-bc34-3ad290628ebb","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -55,7 +55,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"9b09aee8-4d4c-48c2-b315-26f2fca14ca4","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f24c7cff-f08a-4313-bc34-3ad290628ebb","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"79b11279-ad07-46ce-9f6a-5c6913bf7346","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f24c7cff-f08a-4313-bc34-3ad290628ebb","path":"sprites/HouseShayInteriorDownstairsCollision/HouseShayInteriorDownstairsCollision.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -79,7 +79,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 12","resourceVersion":"1.0","name":"214c2c1e-9e68-43e3-b7c2-e8b6e77a7be7","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 12","resourceVersion":"1.0","name":"c2cbaf36-7d39-47ae-baa4-4fe9d6dab36f","tags":[],"resourceType":"GMImageLayer",},
     {"visible":false,"isLocked":false,"blendMode":0,"opacity":35.0,"displayName":"Layer 9 (2)","resourceVersion":"1.0","name":"047f86c6-005f-405f-a83b-2fc69eb74f3f","tags":[],"resourceType":"GMImageLayer",},
     {"visible":false,"isLocked":false,"blendMode":0,"opacity":15.0,"displayName":"Layer 9","resourceVersion":"1.0","name":"df2819ed-1fc3-4b45-b5cd-6de6dfb89d25","tags":[],"resourceType":"GMImageLayer",},
     {"visible":false,"isLocked":false,"blendMode":0,"opacity":30.0,"displayName":"Layer 7","resourceVersion":"1.0","name":"1cf5d574-9f80-4af8-8da4-d2438aaac590","tags":[],"resourceType":"GMImageLayer",},

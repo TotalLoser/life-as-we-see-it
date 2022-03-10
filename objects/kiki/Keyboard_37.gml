@@ -29,9 +29,10 @@ if(global.mobile == true)
 		x += -.6;
 		y += 0;
 	}
-}
 
-/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
-/// @DnDVersion : 1
-/// @DnDHash : 2FF9815D
-image_speed = 1;
+	/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
+	/// @DnDVersion : 1
+	/// @DnDHash : 2FF9815D
+	/// @DnDParent : 3374E404
+	image_speed = 1;
+}

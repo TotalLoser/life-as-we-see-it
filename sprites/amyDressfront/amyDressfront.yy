@@ -25,8 +25,8 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"ba0b4950-b04e-49cf-8673-69e4e54ecc85","path":"sprites/amyDressfront/amyDressfront.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ba0b4950-b04e-49cf-8673-69e4e54ecc85","path":"sprites/amyDressfront/amyDressfront.yy",},"LayerId":{"name":"2ebd3810-8ee4-4507-b860-8e5acbfb76da","path":"sprites/amyDressfront/amyDressfront.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"ba0b4950-b04e-49cf-8673-69e4e54ecc85","path":"sprites/amyDressfront/amyDressfront.yy",},"LayerId":{"name":"c931bd82-3d4a-463f-a57d-41be6c987ade","path":"sprites/amyDressfront/amyDressfront.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"ba0b4950-b04e-49cf-8673-69e4e54ecc85","path":"sprites/amyDressfront/amyDressfront.yy",},"LayerId":{"name":"2ebd3810-8ee4-4507-b860-8e5acbfb76da","path":"sprites/amyDressfront/amyDressfront.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"amyDressfront","path":"sprites/amyDressfront/amyDressfront.yy",},"resourceVersion":"1.0","name":"ba0b4950-b04e-49cf-8673-69e4e54ecc85","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {

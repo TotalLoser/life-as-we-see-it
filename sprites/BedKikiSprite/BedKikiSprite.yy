@@ -25,11 +25,12 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"d57507cb-e3a7-4396-b6b1-60bb8a4fdf4e","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d57507cb-e3a7-4396-b6b1-60bb8a4fdf4e","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"LayerId":{"name":"56325439-345c-4496-bef0-9955382776b0","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"d57507cb-e3a7-4396-b6b1-60bb8a4fdf4e","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"LayerId":{"name":"20123499-cd8c-438d-bc30-3a5b23d5eb18","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"d57507cb-e3a7-4396-b6b1-60bb8a4fdf4e","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"LayerId":{"name":"e72a3d44-0117-4fda-93ec-26c6058fc0bb","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"d57507cb-e3a7-4396-b6b1-60bb8a4fdf4e","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"LayerId":{"name":"418c6ca7-3828-4f99-b290-51dab5cc28b9","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"d57507cb-e3a7-4396-b6b1-60bb8a4fdf4e","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"LayerId":{"name":"20123499-cd8c-438d-bc30-3a5b23d5eb18","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"d57507cb-e3a7-4396-b6b1-60bb8a4fdf4e","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"LayerId":{"name":"4f267b51-2ba0-4731-bca4-971ba8eb7f0f","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"d57507cb-e3a7-4396-b6b1-60bb8a4fdf4e","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"LayerId":{"name":"02b5b501-1629-4353-8108-4a01f76249d0","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"d57507cb-e3a7-4396-b6b1-60bb8a4fdf4e","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"LayerId":{"name":"418c6ca7-3828-4f99-b290-51dab5cc28b9","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"d57507cb-e3a7-4396-b6b1-60bb8a4fdf4e","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"LayerId":{"name":"56325439-345c-4496-bef0-9955382776b0","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"BedKikiSprite","path":"sprites/BedKikiSprite/BedKikiSprite.yy",},"resourceVersion":"1.0","name":"d57507cb-e3a7-4396-b6b1-60bb8a4fdf4e","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -72,6 +73,7 @@
     {"visible":false,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 2","resourceVersion":"1.0","name":"e72a3d44-0117-4fda-93ec-26c6058fc0bb","tags":[],"resourceType":"GMImageLayer",},
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":10.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"20123499-cd8c-438d-bc30-3a5b23d5eb18","tags":[],"resourceType":"GMImageLayer",},
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 4","resourceVersion":"1.0","name":"4f267b51-2ba0-4731-bca4-971ba8eb7f0f","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 5","resourceVersion":"1.0","name":"02b5b501-1629-4353-8108-4a01f76249d0","tags":[],"resourceType":"GMImageLayer",},
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 3","resourceVersion":"1.0","name":"418c6ca7-3828-4f99-b290-51dab5cc28b9","tags":[],"resourceType":"GMImageLayer",},
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"56325439-345c-4496-bef0-9955382776b0","tags":[],"resourceType":"GMImageLayer",},
   ],
