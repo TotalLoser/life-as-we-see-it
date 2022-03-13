@@ -20,6 +20,17 @@ current_sprite = "onesie";
 
 }
 
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 69C2192D
+/// @DnDApplyTo : {kiki}
+/// @DnDArgument : "spriteind" "kikiOnesieFront"
+/// @DnDSaveInfo : "spriteind" "kikiOnesieFront"
+with(kiki) {
+sprite_index = kikiOnesieFront;
+image_index = 0;
+}
+
 /// @DnDAction : YoYo Games.Common.Function_Call
 /// @DnDVersion : 1
 /// @DnDHash : 7F76614F

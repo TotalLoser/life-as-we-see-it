@@ -85,12 +85,16 @@ else
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 4929809F
+	/// @DnDInput : 2
 	/// @DnDApplyTo : {kiki}
 	/// @DnDParent : 44CF60D1
 	/// @DnDArgument : "expr" "true"
+	/// @DnDArgument : "expr_1" "false"
 	/// @DnDArgument : "var" "global.mobile"
+	/// @DnDArgument : "var_1" "sitting"
 	with(kiki) {
 	global.mobile = true;
+	sitting = false;
 	
 	}
 
@@ -113,22 +117,9 @@ else
 	/// @DnDHash : 1E65A71A
 	/// @DnDApplyTo : {kiki}
 	/// @DnDParent : 44CF60D1
-	/// @DnDArgument : "spriteind" "kikiDressRight"
-	/// @DnDSaveInfo : "spriteind" "kikiDressRight"
+	/// @DnDArgument : "spriteind" "rightsprite"
 	with(kiki) {
-	sprite_index = kikiDressRight;
+	sprite_index = rightsprite;
 	image_index = 0;
-	}
-
-	/// @DnDAction : YoYo Games.Common.Variable
-	/// @DnDVersion : 1
-	/// @DnDHash : 2571E841
-	/// @DnDApplyTo : kiki
-	/// @DnDParent : 44CF60D1
-	/// @DnDArgument : "expr" "false"
-	/// @DnDArgument : "var" "sitting"
-	with(kiki) {
-	sitting = false;
-	
 	}
 }

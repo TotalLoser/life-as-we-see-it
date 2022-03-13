@@ -1,3 +1,20 @@
+/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
+/// @DnDVersion : 1
+/// @DnDHash : 5E6526D4
+/// @DnDApplyTo : {kiki}
+/// @DnDArgument : "speed" "0"
+with(kiki) image_speed = 0;
+
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 25C2DDFA
+/// @DnDApplyTo : {kiki}
+/// @DnDArgument : "spriteind" "backsprite"
+with(kiki) {
+sprite_index = backsprite;
+image_index = 0;
+}
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 52CDF5C0

@@ -27,16 +27,28 @@ if(!l2DDBA673_0)
 	
 	}
 
+	/// @DnDAction : YoYo Games.Common.Set_Global
+	/// @DnDVersion : 1
+	/// @DnDHash : 4C9C7BA5
+	/// @DnDInput : 2
+	/// @DnDParent : 2DDBA673
+	/// @DnDArgument : "value" "x"
+	/// @DnDArgument : "value_1" "y"
+	/// @DnDArgument : "var" "chairx"
+	/// @DnDArgument : "var_1" "chairy"
+	global.chairx = x;
+	global.chairy = y;
+
 	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
 	/// @DnDVersion : 1
 	/// @DnDHash : 3DD25399
 	/// @DnDApplyTo : {kiki}
 	/// @DnDParent : 2DDBA673
-	/// @DnDArgument : "x" "event_object.x"
-	/// @DnDArgument : "y" "event_object.y+6"
+	/// @DnDArgument : "x" "global.chairx"
+	/// @DnDArgument : "y" "global.chairy+6"
 	with(kiki) {
-	x = event_object.x;
-	y = event_object.y+6;
+	x = global.chairx;
+	y = global.chairy+6;
 	}
 
 	/// @DnDAction : YoYo Games.Instances.Set_Sprite
@@ -100,10 +112,9 @@ else
 	/// @DnDHash : 4C8DCD01
 	/// @DnDApplyTo : {kiki}
 	/// @DnDParent : 68FE11F9
-	/// @DnDArgument : "spriteind" "kikiDressFront"
-	/// @DnDSaveInfo : "spriteind" "kikiDressFront"
+	/// @DnDArgument : "spriteind" "frontsprite"
 	with(kiki) {
-	sprite_index = kikiDressFront;
+	sprite_index = frontsprite;
 	image_index = 0;
 	}
 }

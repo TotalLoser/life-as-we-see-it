@@ -17,7 +17,6 @@
     {"instances":[],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Interact","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"ExistentialTentacleGirl","path":"objects/ExistentialTentacleGirl/ExistentialTentacleGirl.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":734.0,"y":827.0,"resourceVersion":"1.0","name":"inst_2B50E421","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":true,"objectId":{"name":"kikiOnesie","path":"objects/kikiOnesie/kikiOnesie.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":704.0,"y":876.0,"resourceVersion":"1.0","name":"inst_39B576FF","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":4,"gridY":4,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"friends","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"SnowHut1","path":"objects/SnowHut1/SnowHut1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":887.0,"y":875.0,"resourceVersion":"1.0","name":"inst_2F86FC25","tags":[],"resourceType":"GMRInstance",},
@@ -33,7 +32,6 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_2B50E421","path":"rooms/mountains/mountains.yy",},
-    {"name":"inst_39B576FF","path":"rooms/mountains/mountains.yy",},
     {"name":"inst_2F86FC25","path":"rooms/mountains/mountains.yy",},
   ],
   "inheritCreationOrder": false,

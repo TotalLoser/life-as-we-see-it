@@ -2,11 +2,11 @@
 /// @DnDVersion : 1
 /// @DnDHash : 2DB2AC40
 /// @DnDApplyTo : kiki
-/// @DnDArgument : "x" "77"
-/// @DnDArgument : "y" "-127"
+/// @DnDArgument : "x" "8077"
+/// @DnDArgument : "y" "4473"
 with(kiki) {
-x = 77;
-y = -127;
+x = 8077;
+y = 4473;
 }
 
 /// @DnDAction : YoYo Games.Common.Set_Global
@@ -21,9 +21,9 @@ global.camfollow = false;
 /// @DnDHash : 62743D27
 /// @DnDInput : 2
 /// @DnDArgument : "function" "adjustCamera"
-/// @DnDArgument : "arg" "0"
-/// @DnDArgument : "arg_1" "-228"
-adjustCamera(0, -228);
+/// @DnDArgument : "arg" "8000"
+/// @DnDArgument : "arg_1" "4372"
+adjustCamera(8000, 4372);
 
 /// @DnDAction : YoYo Games.Instances.Color_Sprite
 /// @DnDVersion : 1

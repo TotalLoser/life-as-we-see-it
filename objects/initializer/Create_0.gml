@@ -2,12 +2,12 @@
 /// @DnDVersion : 1
 /// @DnDHash : 019577E4
 /// @DnDInput : 2
-/// @DnDArgument : "value" "3817"
-/// @DnDArgument : "value_1" "2036"
+/// @DnDArgument : "value" "3454"
+/// @DnDArgument : "value_1" "2646"
 /// @DnDArgument : "var" "spawn_x"
 /// @DnDArgument : "var_1" "spawn_y"
-global.spawn_x = 3817;
-global.spawn_y = 2036;
+global.spawn_x = 3454;
+global.spawn_y = 2646;
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
@@ -41,14 +41,14 @@ panties = 0;
 /// @DnDInput : 3
 /// @DnDApplyTo : kiki
 /// @DnDArgument : "expr" "false"
-/// @DnDArgument : "expr_1" "3817"
-/// @DnDArgument : "expr_2" "2036"
+/// @DnDArgument : "expr_1" "3454"
+/// @DnDArgument : "expr_2" "2646"
 /// @DnDArgument : "var" "sitting"
 /// @DnDArgument : "var_1" "spawn_x"
 /// @DnDArgument : "var_2" "spawn_y"
 with(kiki) {
 sitting = false;
-spawn_x = 3817;
-spawn_y = 2036;
+spawn_x = 3454;
+spawn_y = 2646;
 
 }
